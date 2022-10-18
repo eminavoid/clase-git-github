@@ -7,3 +7,14 @@ body{
     background-color: rgb(55, 55, 55);
     color: blanchedalmond;
 }
+h1{
+    text-align: center;
+    padding: 30px;
+}
+p{
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
